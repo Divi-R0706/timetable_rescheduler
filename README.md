@@ -5,6 +5,7 @@
 This project is an AI-powered Timetable Rescheduler & Generator designed to simplify timetable management in educational institutions. It dynamically generates and reschedules timetables based on teacher availability and classroom availability, eliminating manual errors and scheduling conflicts.
 
 ✨ Key Features
+
 ✅ Automatic timetable generation
 
 ✅ Rescheduling based on teacher availability
